@@ -1,3 +1,5 @@
 task1/task1_package/**
 !task1/task1_package/onix_internship/*
 !task1/task1_package/*
+task3/*
+!task3/main.py

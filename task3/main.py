@@ -20,7 +20,11 @@ def f3(x, x_f1, x_f2):
 
 
 def x_generator():
+<<<<<<< HEAD
     for x in range(5, 10):
+=======
+    for x in range(5, 90):
+>>>>>>> 8db4e27 (Add Task3)
         yield x
 
 

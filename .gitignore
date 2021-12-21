@@ -3,3 +3,6 @@ task1/task1_package/**
 !task1/task1_package/*
 task3/*
 !task3/main.py
+task4/*
+!task4/main.py
+!task4/task_classes.py

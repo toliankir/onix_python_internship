@@ -6,3 +6,7 @@ task3/*
 task4/*
 !task4/main.py
 !task4/task_classes.py
+task5/*
+!task5/main.py
+!task5/README.md
+!task5/full_city_list.txt

@@ -1,10 +1,8 @@
 import csv
 import json
-import os
 
-TASK_DIR = "task3"
-CSV_FILENAME = os.path.join(TASK_DIR, "data.csv")
-JSON_FILENAME = os.path.join(TASK_DIR, "data.json")
+CSV_FILENAME = "data.csv"
+JSON_FILENAME = "data.json"
 
 
 def f1(x):
@@ -20,11 +18,7 @@ def f3(x, x_f1, x_f2):
 
 
 def x_generator():
-<<<<<<< HEAD
-    for x in range(5, 10):
-=======
     for x in range(5, 90):
->>>>>>> 8db4e27 (Add Task3)
         yield x
 
 
